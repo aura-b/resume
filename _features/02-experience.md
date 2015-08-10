@@ -9,7 +9,7 @@ image: "http://i24.photobucket.com/albums/c42/aurab/IMG_0973_zpsjnmwzcce.jpg"
 ###Front-End Web Development Intern @ [DevLabs](http://devla.bs/), Oakland CA
 Created new web pages for the [Tutorez](http://tutorez.com/) team 
 
-###Website Developer @ [Groundwork Richmond](http://groundworkrichmond.com/), Richmond CA
+###Website Developer @ [Groundwork Richmond](http://groundworkrichmond.org/), Richmond CA
 I revamped, updated, and designed their website and held training sessions to teach others how to carry on my work in the future to help this nonprofit impact even more people!
 
 
