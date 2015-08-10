@@ -3,7 +3,11 @@ id: experience
 name: Experience
 heading: Experience
 subheading: 
-image: "http://placehold.it/500x500"
+image: "http://i24.photobucket.com/albums/c42/aurab/IMG_0973_zpsjnmwzcce.jpg"
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+###Front-End Web Development Intern @ DevLabs, Oakland CA
+
+###Website Developer @ Groundwork Richmond, Richmond CA
+
+###Student Intern @ UCSF, San Francisco CA
