@@ -6,20 +6,6 @@ subheading:
 image: "http://i24.photobucket.com/albums/c42/aurab/IMG_6427_zps4dasd7b9.jpg"
 ---
 <ul>
-{% if site.twitter_username %}
-  <li>
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fa fa-twitter"></i> Twitter
-    </a>
-  </li>
-{% endif %}
-{% if site.github_username %}
-  <li>
-    <a href="https://github.com/{{ site.github_username }}">
-      <i class="fa fa-github"></i> GitHub
-    </a>
-  </li>
-{% endif %}
 {% if site.linkedin_username %}
   <li>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
@@ -27,6 +13,15 @@ image: "http://i24.photobucket.com/albums/c42/aurab/IMG_6427_zps4dasd7b9.jpg"
     </a>
   </li>
 {% endif %}
+
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
+
 {% if site.facebook_username %}
   <li>
     <a href="https://www.facebook.com/{{ site.facebook_username }}">
@@ -35,6 +30,13 @@ image: "http://i24.photobucket.com/albums/c42/aurab/IMG_6427_zps4dasd7b9.jpg"
   </li>
 {% endif %}
 
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
 </ul>
 
 
