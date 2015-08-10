@@ -1,9 +1,11 @@
 ---
 id: about
 name: About
-heading: About me
+heading: About Me
 subheading: 
 image: "http://i24.photobucket.com/albums/c42/aurab/aura_barrera_photo_zps2i6pf7tb.jpg"
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+Aura Barrera, 17, from Oakland, CA, has attended very diverse public schools all her life, which sparked an interest in social issues and helping others. She then joined Girls Who Code because she wanted to explore computer science in a welcoming and inclusive environment, and was captivated by the chance to give back to her community in the San Francisco East Bay. She attends Oakland Technical High School where she nurtures her interests in the sciences, specifically computer science and biotechnology.
+
+She now teaches computer science to other high schoolers through founding her own Girls Who Code Club and independently learns computer science languages through online courses, such as codeacademy.com, coursera.com, and edx.org.
