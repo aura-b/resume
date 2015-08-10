@@ -34,8 +34,9 @@ image: "http://i24.photobucket.com/albums/c42/aurab/IMG_6427_zps4dasd7b9.jpg"
     </a>
   </li>
 {% endif %}
-
-###[VSCO Portfolio](http://aurab.vsco.co/grid/1)
+<li>
+[VSCO Portfolio](http://aurab.vsco.co/grid/1)
+</li>
 </ul>
 
 
