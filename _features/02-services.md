@@ -1,8 +1,8 @@
 ---
-id: services
-name: Services
-heading: The Second Heading
-subheading: Is Pretty Cool Too.
+id: experience
+name: Experience
+heading: Experience
+subheading: 
 image: "http://placehold.it/500x500"
 ---
 
