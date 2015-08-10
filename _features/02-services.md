@@ -13,6 +13,6 @@ Created new web pages for the [Tutorez](tutorez.com) team
 I revamped, updated, and designed their website and held training sessions to teach others how to carry on my work in the future to help this nonprofit impact even more people!
 
 
-###Student Intern @ UCSF, San Francisco CA
+###Student Intern @ [UCSF](http://orthosurg.ucsf.edu/), San Francisco CA
 Assisted in experimental set-up and design of multiple research projects, where responsibilities were
 Paraffin cell sectioning, data extraction and processing in Matlab, gained exposure to motion capture theory, and assisted in clinical motion capture.
